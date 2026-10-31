@@ -1,5 +1,30 @@
-// Buat tujuh berkas ini di src/pages/ dengan isi sementara seperti ini.
-// Isinya diganti satu per satu saat mengikuti panduan setiap halaman.
+
+import mahasiswa from '../../mahasiswa.json'
+
+const REPO = 'https://github.com/16-123140161-ExaudiAminHutasoit/uts-paw.git'
+
 export default function Tentang() {
-  return <h1>Tentang</h1>
+  const { nama, nim, kelas, tema } = mahasiswa
+
+  return (
+    <section>
+      <h1>Tentang</h1>
+      <dl>
+        <dt>Nama</dt>
+        <dd>{nama}</dd>
+
+        <dt>NIM</dt>
+        <dd>{nim}</dd>
+
+        <dt>Kelas</dt>
+        <dd>{kelas}</dd>
+
+        <dt>Tema</dt>
+        <dd>{tema}</dd>
+      </dl>
+      <p>
+        Kode sumber: <a href={REPO}>{REPO}</a>
+      </p>
+    </section>
+  )
 }
