@@ -1,10 +1,92 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Naniura",
+    "kategori": "Ikan",
+    "daerahAsal": "Sumatera Utara",
+    "waktuMasak": "3 - 6 jam",
+    "tingkatKesulitan": "sulit"
+  },
+
+  {
+    "id": "2",
+    "judul": "Pempek",
+    "kategori": "Ikan",
+    "daerahAsal": "Sumatera Selatan",
+    "waktuMasak": "1 - 1,5 jam",
+    "tingkatKesulitan": "sedang"
+  },
+
+  {
+    "id": "3",
+    "judul": "Papeda",
+    "kategori": "Sagu",
+    "daerahAsal": "Papua",
+    "waktuMasak": "30 - 60 menit",
+    "tingkatKesulitan": "mudah"
+  },
+  
+  {
+    "id": "4",
+    "judul": "Mie Aceh",
+    "kategori": "Mie",
+    "daerahAsal": "Aceh",
+    "waktuMasak": "1 - 1,5 jam",
+    "tingkatKesulitan": "sedang"
+  },
+  
+  {
+    "id": "5",
+    "judul": "Ayam Betutu",
+    "kategori": "Ayam",
+    "daerahAsal": "Bali",
+    "waktuMasak": "2 - 3 jam",
+    "tingkatKesulitan": "sedang"
+  },
+  
+  {
+    "id": "6",
+    "judul": "Soto Makassar",
+    "kategori": "Daging",
+    "daerahAsal": "Sulawesi Selatan",
+    "waktuMasak": "1 - 1,5 jam",
+    "tingkatKesulitan": "sedang"
+  },
+  
+  {
+    "id": "7",
+    "judul": "Rendang",
+    "kategori": "Daging",
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasak": "4 - 8 jam",
+    "tingkatKesulitan": "sedang"
+  },
+  
+  {
+    "id": "8",
+    "judul": "Gado-gado Betawi",
+    "kategori": "Sayuran",
+    "daerahAsal": "Jakarta",
+    "waktuMasak": "1 jam",
+    "tingkatKesulitan": "mudah"
+  },
+  
+  {
+    "id": "9",
+    "judul": "Gudeg",
+    "kategori": "sayuran",
+    "daerahAsal": "Yogyakarta",
+    "waktuMasak": "5 - 6 jam",
+    "tingkatKesulitan": "sedang"
+  },
+  
+  {
+    "id": "10",
+    "judul": "Pindang Patin",
+    "kategori": "Ikan",
+    "daerahAsal": "Sumatera selatan",
+    "waktuMasak": "30 - 60 menit",
+    "tingkatKesulitan" : "mudah"
   }
+  
 ]
