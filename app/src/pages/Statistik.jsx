@@ -1,5 +1,6 @@
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Statistik.css'
+import JudulHalaman from '../components/JudulHalaman.jsx'
 
 export default function Statistik() {
   const { items } = useKoleksi()
@@ -7,7 +8,7 @@ export default function Statistik() {
 
   return (
     <section>
-      <h1>Statistik</h1>
+      <JudulHalaman judul="Statistik Resep" />
       <div className="tabel-gulir">
         <table className="tabel-data">
           <thead>
