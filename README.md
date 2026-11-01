@@ -68,7 +68,7 @@ Kelas: RB
 Tema: Resep Masakan Nusantara
 Deployment: https://github.com/16-123140161-ExaudiAminHutasoit/uts-paw.git
 
-![Tangkapan layar beranda](docs/Beranda.png)
+![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
 
