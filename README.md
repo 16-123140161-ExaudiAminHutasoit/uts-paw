@@ -60,22 +60,28 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 ## README milikmu
 
-Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
-
-```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Exaudi Amin Hutasoit
+NIM: 123140161
+Kelas: RB
+Tema: Resep Masakan Nusantara
+Deployment: https://github.com/16-123140161-ExaudiAminHutasoit/uts-paw.git
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](docs/Beranda.png)
 
 ## Fitur
 
-- ...
+Fitur yang tersedia di aplikasi :
+- Beranda
+- Koleksi resep
+- pencarian resep
+- Filter berdasarkan kategori
+- Detail resep
+- Tambah resep
+- Hapus resep
+- statistik resep
+- Informasi ppengembang
 
 ## Menjalankan secara lokal
 
@@ -85,5 +91,12 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+1. Functional Components
+2. Props
+3. useState
+4. useEffect
+5. Context API
+6. Custom Hooks
+7. React Router
+8. Local Storage
+9. Fetch API dan async/await
